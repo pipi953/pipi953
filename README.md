@@ -4,7 +4,7 @@
 [![lable_pipi953_Blog](https://img.shields.io/badge/blog-25k_pageview-green)](https://blog.tellme.ink) [![Mail Badge](https://img.shields.io/badge/-pipi9530@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pipi9530@gmail.com)](mailto:pipi9530@gmail.com)
 ---
 
-<img align="right" alt="GIF" src="https://raw.github.com/pipi953/pipi953/tree/main/images/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://github.com/pipi953/pipi953/blob/main/images/pusheencode.gif" />
 
  ### Hi，I'm Hongle Li
  
