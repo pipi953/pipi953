@@ -11,7 +11,7 @@
 - 🔭 Department of Computer Engineering, [Keimyung University](https://www.kmu.ac.kr), South Korea
 - 🤖️ My Research content: [ResearchGate](https://www.researchgate.net/profile/Hongle_Li2) 
 - 🌱 My work mainly includes: VR, AR, Algorithms, Computer graphics, and iOS
-- 💬 Ask me about C++, Python and my projects on haoruileee@gmail.com
+- 💬 Ask me about C++, iOS and my projects on pipi9530@gmail.com
 
 ## Languages
 
