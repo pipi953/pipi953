@@ -14,15 +14,19 @@
 - 💬 Ask me about C++, iOS and my projects on pipi9530@gmail.com
 
 
-### Project & Languages
-
-<a href="https://github.com/pipi953?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pipi953&theme=radical&show_icons=true&include_all_commits=true" alt="pipi953's github stats" />
-</a>
+###  Languages
 <a href="https://github.com/pipi953">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=pipi953&layout=compact&theme=material-palenight" />
 </a>
+
+
+### Project
+
+<a href="https://github.com/pipi953?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pipi953&theme=radical&show_icons=true&include_all_commits=true" alt="pipi953's github stats" />
+</a>
+
 
 <a href="https://github.com/pipi953/AstarForUnity">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
