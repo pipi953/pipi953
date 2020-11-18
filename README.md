@@ -1,7 +1,7 @@
  # Hello World 👋 
  
  
-[![lable_pipi953_Blog](https://img.shields.io/badge/blog-25k_pageview-green)](https://img.shields.io/badge/blog-25k_pageview-green) [![Mail Badge](https://img.shields.io/badge/-pipi9530@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pipi9530@gmail.com)](mailto:pipi9530@gmail.com)
+[![lable_pipi953_Blog](https://img.shields.io/badge/blog-25k_pageview-green)](https://blog.tellme.ink) [![Mail Badge](https://img.shields.io/badge/-pipi9530@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pipi9530@gmail.com)](mailto:pipi9530@gmail.com)
 ---
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/pipi953/Resources/master/images/pusheencode.gif" />
