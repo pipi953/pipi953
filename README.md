@@ -27,6 +27,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pipi953&theme=radical&show_icons=true&include_all_commits=true" alt="pipi953's github stats" />
 </a>
 
+---
 
 <a href="https://github.com/pipi953/AstarForUnity">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
