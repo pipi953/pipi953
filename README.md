@@ -44,9 +44,9 @@
 <a href="https://www.tellme.ink">
   <img align="left" alt="落花 の LIFE" width="20px" src="https://github.com/pipi953/pipi953/blob/main/images/homepage.svg" />
 </a>
-;<a href="https://www.instagram.com/pipi953/">
-;<img align="left" alt="落花人獨立 | Instagram" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/instagram.svg" />
-;</a>
+<a href="https://blog.tellme.ink">
+  <img align="left" alt="pipi953's Blog" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/blogger.svg" />
+</a>
 <a href="https://www.twitter.com/pipi953">
   <img align="left" alt="落花人獨立 | Twitter" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/twitter.svg" />
 </a>
@@ -55,10 +55,4 @@
 </a>
 <a href="https://github.com/pipi953">
   <img align="left" alt="pipi953 | GitHub" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/github.svg" />
-</a>
-<a href="https://blog.tellme.ink">
-  <img align="left" alt="pipi953's Blog" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/blogger.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="皮博士 | 微信公众号" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/gongzhonghao.svg" />
 </a>
