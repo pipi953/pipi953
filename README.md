@@ -44,9 +44,9 @@
 <a href="https://www.tellme.ink">
   <img align="left" alt="落花 の LIFE" width="20px" src="https://github.com/pipi953/pipi953/blob/main/images/homepage.svg" />
 </a>
-//<a href="https://www.instagram.com/pipi953/">
-  //<img align="left" alt="落花人獨立 | Instagram" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/instagram.svg" />
-//</a>
+;<a href="https://www.instagram.com/pipi953/">
+;<img align="left" alt="落花人獨立 | Instagram" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/instagram.svg" />
+;</a>
 <a href="https://www.twitter.com/pipi953">
   <img align="left" alt="落花人獨立 | Twitter" width="21px" src="https://github.com/pipi953/pipi953/blob/main/images/twitter.svg" />
 </a>
